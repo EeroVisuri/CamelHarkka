@@ -1,0 +1,1 @@
+Hi! This is a exercise for filtering and routing code in a Java DSL, from https://www.tutorialspoint.com/apache_camel/apache_camel_project.htm I'm doing this to learn how Camel works.  It fetches what's in order.xml, filters and prints it out.
